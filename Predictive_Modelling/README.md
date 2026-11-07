@@ -3,6 +3,7 @@
 **ACS Work Integrated Learning – Data Analytics | Team 3**  
 **Prepared by:** Zannatul Ferdous (Annie)  
 **Role:** Data Analyst – Predictive Modelling
+**Jira:** CHURN-23 (ANN model)
 
 ## Objective
 Predict which customers are likely to churn using an Artificial Neural Network (ANN), compare it with a simple baseline model, and identify the main drivers of churn.
