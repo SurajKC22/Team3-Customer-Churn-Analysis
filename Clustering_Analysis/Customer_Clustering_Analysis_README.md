@@ -50,7 +50,7 @@ Python, Pandas, NumPy, Matplotlib, scikit-learn, Google Colab.
 - Confirm the results CSV was downloaded successfully.
 - Follow team data-governance rules; do not publish confidential or identifiable customer data.
 
-## repository contents
+## Repository Contents
 - `Abhishek___Clustering_Analysis_V2.ipynb`
 - `Clustering_Analysis_Cluster_Scatter_Plot.png`
 - `Clustering_Analysis_Elbow_Plot.png`
