@@ -51,7 +51,16 @@ Python, Pandas, NumPy, Matplotlib, scikit-learn, Google Colab.
 - Follow team data-governance rules; do not publish confidential or identifiable customer data.
 
 ## repository contents
-- `notebooks/Abhishek___Clustering_Analysis_V2.ipynb`
-- `docs/Team3_Customer_Clustering_Analysis_Documentation.docx`
-- `README.md`
-- `results/Customer_Clusters_Results.csv` 
+- `Abhishek___Clustering_Analysis_V2.ipynb`
+- `Clustering_Analysis_Cluster_Scatter_Plot.png`
+- `Clustering_Analysis_Elbow_Plot.png`
+- `Customer_Clustering_Analysis_README.md` 
+- `Customer_Clusters_Results.csv` 
+
+
+
+
+
+
+
+
